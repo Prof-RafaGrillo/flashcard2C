@@ -1,3 +1,7 @@
 .conteudo{
     display: flex;
 }
+.cartao{
+    background-color: aqua;
+    margin: 1rem 1rem;
+}
