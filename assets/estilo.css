@@ -24,6 +24,10 @@
     backface-visibility: hidden;
 }
 
+.cartao--resposta{
+    transform: rotateY(180deg);
+}
+
 
 
 .cartao p{
