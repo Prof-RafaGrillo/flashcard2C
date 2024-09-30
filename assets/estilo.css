@@ -11,13 +11,16 @@
 }
 .cartao--conteudo{
     background-color: rgba(0, 255, 255, 0.61);
-    
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .cartao:hover .cartao--conteudo{
     background-color: brown;
     transform: rotateY(180deg);
 }
+
+
 
 .cartao p{
     font-size:28px;
