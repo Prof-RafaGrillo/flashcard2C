@@ -20,6 +20,10 @@
     transform: rotateY(180deg);
 }
 
+.cartao--pergunta, .cartao--resposta{
+    backface-visibility: hidden;
+}
+
 
 
 .cartao p{
