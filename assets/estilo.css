@@ -9,6 +9,10 @@
     text-align: center;
     border-radius: 10px;
 }
+.cartao:hover{
+    background-color: brown;
+}
+
 .cartao p{
     font-size:28px;
     margin-top: 1rem;
