@@ -11,6 +11,7 @@
 }
 .cartao--conteudo{
     background-color: rgba(0, 255, 255, 0.61);
+    transform: rotateY(180deg);
 }
 
 .cartao:hover{
