@@ -4,6 +4,8 @@ body{
 
 .conteudo{
     display: flex;
+    flex-wrap: wrap;
+    
 }
 .cartao{
     
