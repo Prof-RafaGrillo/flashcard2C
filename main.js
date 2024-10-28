@@ -10,6 +10,7 @@ function  criaCartao(pergunta, resposta){
     </div>
     `
     console.log(cartao)
+conteudo.appendChild(cartao)
 
 }
 
